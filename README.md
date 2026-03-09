@@ -27,3 +27,4 @@ A interface permite ao usuário interagir com o sistema de forma intuitiva:
 
 Este projeto consolidou conhecimentos em **React**, **Consumo de APIs**, **Gerenciamento de Estado** e **Roteamento**, pilares fundamentais para o desenvolvimento de aplicações front-end modernas e escaláveis.
 
+ 
